@@ -44,7 +44,7 @@
 | [Sherlock and Permutation](https://www.hackerrank.com/challenges/sherlock-and-permutations) | Hard | |
 | [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | Hard | |
 
-### Number Theory ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Number Theory ![problems-solved](https://img.shields.io/badge/Solved-0/77-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number) | Easy | |
@@ -124,7 +124,66 @@
 | [Minion of The Year](https://www.hackerrank.com/challenges/minion-of-the-year) | Expert | |
 | [Bear and Cryptography](https://www.hackerrank.com/challenges/bear-and-cryptography) | Advanced | |
 
-### Combinatorics ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Combinatorics ![problems-solved](https://img.shields.io/badge/Solved-0/57-00ffff.svg)
+| Name | Difficulty | Solution |
+|------|:----------:|:--------:|
+| [A Chocolate Fiesta](https://www.hackerrank.com/challenges/a-chocolate-fiesta) | Easy | |
+| [Picking Cards](https://www.hackerrank.com/challenges/picking-cards) | Easy | |
+| [nCr Table](https://www.hackerrank.com/challenges/ncr-table) | Medium | |
+| [Coinage](https://www.hackerrank.com/challenges/coinage) | Medium | |
+| [Building a List](https://www.hackerrank.com/challenges/building-a-list) | Medium | |
+| [Merge List](https://www.hackerrank.com/challenges/merge-list) | Medium | |
+| [Choose and Calculate](https://www.hackerrank.com/challenges/choose-and-calculate) | Medium | |
+| [Sherlock and Pairs](https://www.hackerrank.com/challenges/sherlock-and-pairs) | Medium | |
+| [Consecutive Subsequences](https://www.hackerrank.com/challenges/consecutive-subsequences) | Medium | |
+| [Anti-Palindromic Strings](https://www.hackerrank.com/challenges/antipalindromic-strings) | Medium | |
+| [Lexicographic Paths](https://www.hackerrank.com/challenges/lexicographic-steps) | Medium | |
+| [Number List](https://www.hackerrank.com/challenges/number-list) | Medium | |
+| [Journey To Mars](https://www.hackerrank.com/challenges/ajourney) | Medium | |
+| [Super Humble Matrix](https://www.hackerrank.com/challenges/super-humble-matrix) | Medium | |
+| [Volleyball Match](https://www.hackerrank.com/challenges/volleyball-match) | Medium | |
+| [Cyclic Quadruples](https://www.hackerrank.com/challenges/cyclicquadruples) | Medium | |
+| [Longest Increasing Subsequence Arrays](https://www.hackerrank.com/challenges/longest-increasing-subsequence-arrays) | Medium | |
+| [Digit Products](https://www.hackerrank.com/challenges/digit-products) | Medium | |
+| [Tower 3-coloring](https://www.hackerrank.com/challenges/tower-3-coloring) | Medium | |
+| [Count Fox Sequences](https://www.hackerrank.com/challenges/count-fox-sequences) | Medium | |
+| [Manasa and Combinatorics](https://www.hackerrank.com/challenges/manasa-and-combinatorics) | Medium | |
+| [Coloring Grid](https://www.hackerrank.com/challenges/coloring-grid) | Medium | |
+| [Div and Span](https://www.hackerrank.com/challenges/div-and-span) | Medium | |
+| [Ichigo and Revenge](https://www.hackerrank.com/challenges/ichigo-and-revenge) | Medium | |
+| [Binomial Coefficients Revenge](https://www.hackerrank.com/challenges/bincoefrevenge) | Medium | |
+| [Circles Math](https://www.hackerrank.com/challenges/circles-math) | Medium | |
+| [Costly Graphs](https://www.hackerrank.com/challenges/costly-graphs) | Medium | |
+| [Bridges and Harbors](https://www.hackerrank.com/challenges/bridges-and-harbors) | Medium | |
+| [Mehta and the Typical Supermarket](https://www.hackerrank.com/challenges/mehta-and-the-typical-supermarket) | Hard | |
+| [Game of Thrones - II](https://www.hackerrank.com/challenges/game-of-throne-ii) | Hard | |
+| [Permutation Problem](https://www.hackerrank.com/challenges/permutation-problem) | Hard | |
+| [Towers](https://www.hackerrank.com/challenges/towers) | Hard | |
+| [Introduction to Representation Theory](https://www.hackerrank.com/challenges/introduction-to-representation-theory) | Hard | |
+| [Tile Painting: Revisited!](https://www.hackerrank.com/challenges/tile-painting-revisited) | Hard | |
+| [Beautiful Sets](https://www.hackerrank.com/challenges/polita-sets) | Hard | |
+| [Alien Flowers](https://www.hackerrank.com/challenges/alien-flowers) | Hard | |
+| [Grid Lines](https://www.hackerrank.com/challenges/grid-lines) | Hard | |
+| [Highway Construction](https://www.hackerrank.com/challenges/highway-construction) | Hard | |
+| [Value of all Permutations](https://www.hackerrank.com/challenges/value-of-all-permutations) | Hard | |
+| [Farmer](https://www.hackerrank.com/challenges/demidenko-farmer) | Advanced | |
+| [Irresponsible Numbers](https://www.hackerrank.com/challenges/irresponsible-numbers) | Hard | |
+| [Academy Surveillance](https://www.hackerrank.com/challenges/surveillance) | Advanced | |
+| [Parity Party](https://www.hackerrank.com/challenges/parity-party) | Expert | |
+| [String Modification](https://www.hackerrank.com/challenges/string-modification) | Expert | |
+| [To Heap or Not to Heap](https://www.hackerrank.com/challenges/to-heap-or-not-to-heap) | Advanced | |
+| [Sasha and Swaps](https://www.hackerrank.com/challenges/sasha-and-swaps) | Hard | |
+| [k-Balance Number](https://www.hackerrank.com/challenges/k-balance) | Hard | |
+| [Powercode](https://www.hackerrank.com/challenges/powercode) | Hard | |
+| [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs) | Expert | |
+| [How Many Trees?](https://www.hackerrank.com/challenges/how-many-trees) | Advanced | |
+| [Strongly Connected Digraphs](https://www.hackerrank.com/challenges/strongly-connected-digraphs) | Hard | |
+| [Robanukkah Tree](https://www.hackerrank.com/challenges/r-tree-decoration) | Hard | |
+| [Teleporters](https://www.hackerrank.com/challenges/teleporters) | Expert | |
+| [Count Palindromes](https://www.hackerrank.com/challenges/count-palindromes) | Hard | |
+| [Cycle Representation](https://www.hackerrank.com/challenges/cycle-representation) | Expert | |
+| [To Infinity and Beyond](https://www.hackerrank.com/challenges/to-infinity-and-beyond) | Expert | |
+| [Byteland Itinerary](https://www.hackerrank.com/challenges/byteland-itinerary) | Advanced | |
 
 ### Algebra ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
 
