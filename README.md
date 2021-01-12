@@ -266,6 +266,55 @@
 | [Elastic Rope](https://www.hackerrank.com/challenges/elastic-rope) | Expert | |
 | [Painting Figures](https://www.hackerrank.com/challenges/painting-figures) | Expert | |
 
-### Probability ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Probability ![problems-solved](https://img.shields.io/badge/Solved-0/28-00ffff.svg)
+| Name | Difficulty | Solution |
+|------|:----------:|:--------:|
+| [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | |
+| [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy | |
+| [Day 4: Normal Distribution #1](https://www.hackerrank.com/challenges/normal-distribution-1) | Medium | |
+| [Day 4: Normal Distribution #2](https://www.hackerrank.com/challenges/normal-distribution-2) | Medium | |
+| [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | Medium | |
+| [Extremely Dangerous Virus](https://www.hackerrank.com/challenges/extremely-dangerous-virus) | Medium | |
+| [The Matchstick Experiment](https://www.hackerrank.com/challenges/matchstick-experiment) | Medium | |
+| [Palindromes](https://www.hackerrank.com/challenges/palindromes) | Medium | |
+| [Lazy Sorting](https://www.hackerrank.com/challenges/lazy-sorting) | Medium | |
+| [Binomial Distribution #1](https://www.hackerrank.com/challenges/binomial-distribution-1) | Medium | |
+| [Kevin and Expected Values](https://www.hackerrank.com/challenges/kevin-and-expected-value) | Medium | |
+| [The White Lotus and Caterpillar Game](https://www.hackerrank.com/challenges/the-white-lotus-and-caterpillar-game) | Medium | |
+| [Dice Stats](https://www.hackerrank.com/challenges/dice-stats) | Medium | |
+| [Magic Number Tree](https://www.hackerrank.com/challenges/james-tree) | Medium | |
+| [Colorful Polygon](https://www.hackerrank.com/challenges/colorful-polygon) | Medium | |
+| [Sherlock and Probability](https://www.hackerrank.com/challenges/sherlock-and-probability) | Hard | |
+| [Normal Distribution #3](https://www.hackerrank.com/challenges/normal-distribution-3) | Hard | |
+| [Binomial Distribution #2](https://www.hackerrank.com/challenges/binomial-distribution-2) | Hard | |
+| [Binomial Distribution #3](https://www.hackerrank.com/challenges/binomial-distribution-3) | Hard | |
+| [Assignment Problem](https://www.hackerrank.com/challenges/assignment) | Expert | |
+| [Connect The Country](https://www.hackerrank.com/challenges/connect-the-country) | Hard | |
+| [Random Integers Random Bits](https://www.hackerrank.com/challenges/rirb) | Hard | |
+| [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator-1) | Hard | |
+| [Zombie March***](https://www.hackerrank.com/challenges/zombie-march) | Hard | |
+| [Bear and Dancing](https://www.hackerrank.com/challenges/bear-and-dancing) | Hard | |
+| [Randomness](https://www.hackerrank.com/challenges/randomness) | Advanced | |
+| [Random](https://www.hackerrank.com/challenges/random) | Hard | |
+| [Mathematical Expectation](https://www.hackerrank.com/challenges/mathematical-expectation) | Hard | |
 
-### Linear Algebra Foundations ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Linear Algebra Foundations ![problems-solved](https://img.shields.io/badge/Solved-0/17-00ffff.svg)
+| Name | Difficulty | Solution |
+|------|:----------:|:--------:|
+| [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1) | Easy | |
+| [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-2) | Easy | |
+| [Linear Algebra Foundations #3 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3) | Easy | |
+| [Linear Algebra Foundations #4 - Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4) | Easy | |
+| [Linear Algebra Foundations #5 - The 100th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix) | Medium | |
+| [Linear Algebra Foundations #6 - An Equation Involving Matrices](https://www.hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix) | Medium | |
+| [Linear Algebra Foundations #10 - Eigenvectors](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors) | Medium | |
+| [Determinant of the Matrix #1](https://www.hackerrank.com/challenges/determinant-of-the-matrix-1) | Medium | |
+| [Determinant of the Matrix #3](https://www.hackerrank.com/challenges/determinant-of-the-matrix-3) | Medium | |
+| [Linear Algebra Foundations #7 - The 1000th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-7-the-1000th-power-of-a-matrix) | Hard | |
+| [Linear Algebra Foundations #8 - Systems of Equations](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-8-systems-of-equations) | Hard | |
+| [Linear Algebra Foundations #9 - Eigenvalues](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-9-eigenvalues) | Hard | |
+| [Determinant of the Matrix #2](https://www.hackerrank.com/challenges/determinant-of-the-matrix-2) | Hard | |
+| [Eigenvalue of Matrix I](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-1) | Hard | |
+| [Eigenvalue of Matrix #2](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-2) | Hard | |
+| [Eigenvalue of Matrix #3](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-3) | Hard | |
+| [Eigenvalue of Matrix #4](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-4) | Hard | |
