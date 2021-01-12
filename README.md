@@ -232,7 +232,39 @@
 | [Black Hole](https://www.hackerrank.com/challenges/demidenko-black-hole) | Hard | |
 | [Minimum Cyclic Shift](https://www.hackerrank.com/challenges/minimal-cyclic-shift) | Expert | |
 
-### Geometry ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Geometry ![problems-solved](https://img.shields.io/badge/Solved-0/30-00ffff.svg)
+| Name | Difficulty | Solution |
+|------|:----------:|:--------:|
+| [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy | |
+| [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | Easy | |
+| [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting) | Easy | |
+| [Sherlock and Planes](https://www.hackerrank.com/challenges/sherlock-and-planes) | Easy | |
+| [Xrange's Pancakes](https://www.hackerrank.com/challenges/xrange-and-pizza) | Easy | |
+| [Points on a Rectangle](https://www.hackerrank.com/challenges/points-on-rectangle) | Easy | |
+| [Circle City](https://www.hackerrank.com/challenges/circle-city) | Medium | |
+| [Spheres](https://www.hackerrank.com/challenges/spheres) | Medium | |
+| [Baby Step, Giant Step](https://www.hackerrank.com/challenges/baby-step-giant-step) | Medium | |
+| [A Circle and Square](https://www.hackerrank.com/challenges/a-circle-and-a-square) | Medium | |
+| [Hyperspace Travel](https://www.hackerrank.com/challenges/hyperspace-travel) | Medium | |
+| [Solve Equations](https://www.hackerrank.com/challenges/solve-equations) | Medium | |
+| [Stars](https://www.hackerrank.com/challenges/stars) | Medium | |
+| [Polar Angels](https://www.hackerrank.com/challenges/polar-angles) | Medium | |
+| [Jim and The Challenge](https://www.hackerrank.com/challenges/jim-and-the-challenge) | Medium | |
+| [Jim Beam](https://www.hackerrank.com/challenges/jim-beam) | Hard | |
+| [Sherlock and Geometry](https://www.hackerrank.com/challenges/sherlock-and-geometry) | Advanced | |
+| [Good Point](https://www.hackerrank.com/challenges/good-point) | Hard | |
+| [Hard Homework](https://www.hackerrank.com/challenges/hard-homework) | Expert | |
+| [Polygons](https://www.hackerrank.com/challenges/polygons) | Hard | |
+| [Polygon](https://www.hackerrank.com/challenges/polygon) | Hard | |
+| [Meeting Point](https://www.hackerrank.com/challenges/meeting-point) | Hard | |
+| [House Location](https://www.hackerrank.com/challenges/house-location) | Hard | |
+| [The Letter N](https://www.hackerrank.com/challenges/n-letter) | Advanced | |
+| [Best Sum](https://www.hackerrank.com/challenges/best-sum) | Advanced | |
+| [Geometry Queries](https://www.hackerrank.com/challenges/geometry-queries) | Advanced | |
+| [Count Triangles](https://www.hackerrank.com/challenges/count-triangles) | Advanced | |
+| [Isosceles Triangle](https://www.hackerrank.com/challenges/isosceles-triangles) | Hard | |
+| [Elastic Rope](https://www.hackerrank.com/challenges/elastic-rope) | Expert | |
+| [Painting Figures](https://www.hackerrank.com/challenges/painting-figures) | Expert | |
 
 ### Probability ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
 
