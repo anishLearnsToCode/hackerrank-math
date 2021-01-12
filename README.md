@@ -1,9 +1,11 @@
 # Hackerrank Mathematics
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-107/1412-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-107/1412-1abc9c.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-20/1412-1abc9c.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-0/1412-1abc9c.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-0/1412-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
+[![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
 ### Fundamentals
@@ -23,21 +25,21 @@
 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | Easy | |
 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | Easy | |
 | [Sherlock and Divisor](https://www.hackerrank.com/challenges/sherlock-and-divisors) | Easy | |
-| [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | Medium | |
-| [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | Medium | |
 | [Halloween Party](https://www.hackerrank.com/challenges/halloween-party) | Easy | |
 | [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | Easy | |
-| [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | Medium | |
-| [K Candy Score](https://www.hackerrank.com/challenges/k-candy-store) | Medium | |
 | [Sumar and The Floating Rocks](https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks) | Easy | |
 | [Russian Peasant Exponent](https://www.hackerrank.com/challenges/russian-peasant-exponentiation) | Easy | |
-| [Bus Station](https://www.hackerrank.com/challenges/bus-station) | Medium | |
 | [Most Distant](https://www.hackerrank.com/challenges/most-distant) | Easy | |
-| [Jim and The Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | Medium | |
 | [Possible Path](https://www.hackerrank.com/challenges/possible-path) | Easy | |
+| [Jim and The Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | Medium | |
+| [Bus Station](https://www.hackerrank.com/challenges/bus-station) | Medium | |
+| [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | Medium | |
+| [K Candy Score](https://www.hackerrank.com/challenges/k-candy-store) | Medium | |
 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | Medium | |
 | [Mutual Recurrences](https://www.hackerrank.com/challenges/mutual-recurrences) | Medium | |
 | [Summing The N Series](https://www.hackerrank.com/challenges/summing-the-n-series) | Medium | |
+| [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | Medium | |
+| [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | Medium | |
 | [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query) | Hard | |
 | [Sherlock and Permutation](https://www.hackerrank.com/challenges/sherlock-and-permutations) | Hard | |
 | [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | Hard | |
