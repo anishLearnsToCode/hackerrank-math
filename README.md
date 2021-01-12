@@ -185,7 +185,52 @@
 | [To Infinity and Beyond](https://www.hackerrank.com/challenges/to-infinity-and-beyond) | Expert | |
 | [Byteland Itinerary](https://www.hackerrank.com/challenges/byteland-itinerary) | Advanced | |
 
-### Algebra ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+### Algebra ![problems-solved](https://img.shields.io/badge/Solved-0/43-00ffff.svg)
+| Name | Difficulty | Solution |
+|------|:----------:|:--------:|
+| [Combo Meals](https://www.hackerrank.com/challenges/combo-meal) | Easy | |
+| [Difference and Product](https://www.hackerrank.com/challenges/difference-and-product) | Easy | |
+| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy | |
+| [Number Groups](https://www.hackerrank.com/challenges/number-groups) | Easy | |
+| [Wet Shark and 42](https://www.hackerrank.com/challenges/wet-shark-and-42) | Easy | |
+| [Simple One](https://www.hackerrank.com/challenges/simple-one) | Easy | |
+| [Stepping Stones Game](https://www.hackerrank.com/challenges/stepping-stones-game) | Medium | |
+| [Shashank and List](https://www.hackerrank.com/challenges/shashank-and-list) | Medium | |
+| [Triangle Numbers](https://www.hackerrank.com/challenges/triangle-numbers) | Medium | |
+| [Little Gaurav and Sequences](https://www.hackerrank.com/challenges/little-gaurav-and-sequence) | Medium | |
+| [Tell the Average](https://www.hackerrank.com/challenges/tell-the-average) | Medium | |
+| [Game of Rotation](https://www.hackerrank.com/challenges/game-of-rotation) | Medium | |
+| [Hackonacci Matrix Rotations](https://www.hackerrank.com/challenges/hackonacci-matrix-rotations) | Medium | |
+| [Birthday Triplets](https://www.hackerrank.com/challenges/the-triplets) | Medium | |
+| [Manasa and Subsequences](https://www.hackerrank.com/challenges/manasa-and-sub-sequences) | Medium | |
+| [Count Solutions](https://www.hackerrank.com/challenges/count-solutions) | Medium | |
+| [Manasa and Calculations](https://www.hackerrank.com/challenges/manasa-and-calculations) | Medium | |
+| [The Simplest Sum](https://www.hackerrank.com/challenges/the-simplest-sum) | Medium | |
+| [Manasa and Pizza](https://www.hackerrank.com/challenges/manasa-and-pizza) | Medium | |
+| [Permutation Equations](https://www.hackerrank.com/challenges/permutation-equations) | Medium | |
+| [Introduction To Algebra](https://www.hackerrank.com/challenges/introduction-to-algebra) | Medium | |
+| [Cross Matrix](https://www.hackerrank.com/challenges/cross-matrix) | Medium | |
+| [Easy Sum](https://www.hackerrank.com/challenges/easy-sum) | Hard | |
+| [Pairwise Sum and Divide](https://www.hackerrank.com/challenges/pairwise-sum-and-divide) | Hard | |
+| [Power Calculation](https://www.hackerrank.com/challenges/power-calculation) | Advanced | |
+| [Sherlock and Square](https://www.hackerrank.com/challenges/sherlock-and-square) | Hard | |
+| [Sherlock and Queries](https://www.hackerrank.com/challenges/sherlock-and-queries) | Advanced | |
+| [Summing the K-N Series](https://www.hackerrank.com/challenges/summing-the-k-n-series) | Hard | |
+| [XOR Love](https://www.hackerrank.com/challenges/xor-love) | Hard | |
+| [Circle Summation](https://www.hackerrank.com/challenges/circle-summation) | Advanced | |
+| [Girlfriend and Necklace](https://www.hackerrank.com/challenges/gneck) | Hard | |
+| [Signal Tower](https://www.hackerrank.com/challenges/signal-tower) | Advanced | |
+| [Summing the K-N-R Series](https://www.hackerrank.com/challenges/summing-the-k-n-r-series) | Advanced | |
+| [The Axis of Awesome](https://www.hackerrank.com/challenges/the-axis-of-awesome) | Expert | |
+| [Emma and Sum of Products](https://www.hackerrank.com/challenges/emma-and-sum-of-products) | Hard | |
+| [Fun with Series](https://www.hackerrank.com/challenges/fun-with-series) | Advanced | |
+| [Counting Equations](https://www.hackerrank.com/challenges/counting-equations) | Expert | |
+| [Calculate It](https://www.hackerrank.com/challenges/calculate-it) | Expert | |
+| [Rational Sums](https://www.hackerrank.com/challenges/rational-sums) | Expert | |
+| [Introduction To Algebra 2](https://www.hackerrank.com/challenges/introduction-to-algebra-2) | Advanced | |
+| [The Black Box](https://www.hackerrank.com/challenges/black-box-1) | Advanced | |
+| [Black Hole](https://www.hackerrank.com/challenges/demidenko-black-hole) | Hard | |
+| [Minimum Cyclic Shift](https://www.hackerrank.com/challenges/minimal-cyclic-shift) | Expert | |
 
 ### Geometry ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
 
