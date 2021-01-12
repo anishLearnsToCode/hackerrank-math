@@ -1,4 +1,4 @@
-# Hackerrank Mathematics
+# HackerRank Mathematics
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
