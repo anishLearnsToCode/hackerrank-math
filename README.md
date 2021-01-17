@@ -1,8 +1,8 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-1/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-0/284-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -269,7 +269,7 @@
 ### Probability ![problems-solved](https://img.shields.io/badge/Solved-0/28-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
-| [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | |
+| [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | [![py](https://img.icons8.com/color/35/000000/python.png)](python/probability/random_number_generator.py) |
 | [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy | |
 | [Day 4: Normal Distribution #1](https://www.hackerrank.com/challenges/normal-distribution-1) | Medium | |
 | [Day 4: Normal Distribution #2](https://www.hackerrank.com/challenges/normal-distribution-2) | Medium | |
