@@ -235,7 +235,7 @@
 ### Geometry ![problems-solved](https://img.shields.io/badge/Solved-0/30-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
-| [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy |![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png) |
+| [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/points_on_a_line.cpp)
 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | Easy | |
 | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting) | Easy | |
 | [Sherlock and Planes](https://www.hackerrank.com/challenges/sherlock-and-planes) | Easy | |
