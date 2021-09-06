@@ -1,18 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     int a, b, c;
     cin >> a;
 
-    if (a % 2 == 0)
-    {
+    if (a % 2 == 0) {
         b = ((a / 2) * (a / 2)) - 1;
         c = b + 2;
-    }
-    else
-    {
+    } else {
         b = ((a * a) - 1) / 2;
         c = b + 1;
     }
