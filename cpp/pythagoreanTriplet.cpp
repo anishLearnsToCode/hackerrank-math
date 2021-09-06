@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int a, b, c;
+    long long int a, b, c;
     cin >> a;
 
     if (a % 2 == 0) {
