@@ -191,7 +191,7 @@
 |------|:----------:|:--------:|
 | [Combo Meals](https://www.hackerrank.com/challenges/combo-meal) | Easy | |
 | [Difference and Product](https://www.hackerrank.com/challenges/difference-and-product) | Easy | |
-| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy | |
+| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy|[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/pythagoreanTriplet.cpp) | |
 | [Number Groups](https://www.hackerrank.com/challenges/number-groups) | Easy | |
 | [Wet Shark and 42](https://www.hackerrank.com/challenges/wet-shark-and-42) | Easy | |
 | [Simple One](https://www.hackerrank.com/challenges/simple-one) | Easy | |
