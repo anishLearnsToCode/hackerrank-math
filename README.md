@@ -1,9 +1,9 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-1/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-2/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -186,12 +186,12 @@
 | [To Infinity and Beyond](https://www.hackerrank.com/challenges/to-infinity-and-beyond) | Expert | |
 | [Byteland Itinerary](https://www.hackerrank.com/challenges/byteland-itinerary) | Advanced | |
 
-### Algebra ![problems-solved](https://img.shields.io/badge/Solved-0/43-00ffff.svg)
+### Algebra ![problems-solved](https://img.shields.io/badge/Solved-1/43-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Combo Meals](https://www.hackerrank.com/challenges/combo-meal) | Easy | |
 | [Difference and Product](https://www.hackerrank.com/challenges/difference-and-product) | Easy | |
-| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy | |
+| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy|[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/pythagoreanTriplet.cpp) |
 | [Number Groups](https://www.hackerrank.com/challenges/number-groups) | Easy | |
 | [Wet Shark and 42](https://www.hackerrank.com/challenges/wet-shark-and-42) | Easy | |
 | [Simple One](https://www.hackerrank.com/challenges/simple-one) | Easy | |
@@ -233,7 +233,7 @@
 | [Black Hole](https://www.hackerrank.com/challenges/demidenko-black-hole) | Hard | |
 | [Minimum Cyclic Shift](https://www.hackerrank.com/challenges/minimal-cyclic-shift) | Expert | |
 
-### Geometry ![problems-solved](https://img.shields.io/badge/Solved-0/30-00ffff.svg)
+### Geometry ![problems-solved](https://img.shields.io/badge/Solved-1/30-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/points_on_a_line.cpp)
@@ -267,7 +267,7 @@
 | [Elastic Rope](https://www.hackerrank.com/challenges/elastic-rope) | Expert | |
 | [Painting Figures](https://www.hackerrank.com/challenges/painting-figures) | Expert | |
 
-### Probability ![problems-solved](https://img.shields.io/badge/Solved-0/28-00ffff.svg)
+### Probability ![problems-solved](https://img.shields.io/badge/Solved-1/28-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | [![py](https://img.icons8.com/color/35/000000/python.png)](python/probability/random_number_generator.py) |
