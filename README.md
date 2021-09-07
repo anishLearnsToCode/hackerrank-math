@@ -1,9 +1,9 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-4/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-2/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-3/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -267,11 +267,11 @@
 | [Elastic Rope](https://www.hackerrank.com/challenges/elastic-rope) | Expert | |
 | [Painting Figures](https://www.hackerrank.com/challenges/painting-figures) | Expert | |
 
-### Probability ![problems-solved](https://img.shields.io/badge/Solved-1/28-00ffff.svg)
+### Probability ![problems-solved](https://img.shields.io/badge/Solved-2/28-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | [![py](https://img.icons8.com/color/35/000000/python.png)](python/probability/random_number_generator.py) |
-| [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy | |
+| [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/bdayGift.cpp) |
 | [Day 4: Normal Distribution #1](https://www.hackerrank.com/challenges/normal-distribution-1) | Medium | |
 | [Day 4: Normal Distribution #2](https://www.hackerrank.com/challenges/normal-distribution-2) | Medium | |
 | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | Medium | |
