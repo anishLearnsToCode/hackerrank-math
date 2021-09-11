@@ -1,22 +1,22 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-10/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-8/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-9/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-4/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-5/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/findThePoint.cpp) |
 | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/maximumDraws.cpp) |
 | [Handshake](https://www.hackerrank.com/challenges/handshake) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/handshake.cpp) |
 | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/minHeightTriangle.cpp) |
-| [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | Easy | |
+| [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/armyGame.cpp) |
 | [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime) | Easy | |
 | [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns) | Easy | |
 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting) | Easy | |
