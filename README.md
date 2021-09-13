@@ -1,15 +1,15 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-11/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-12/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-10/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-11/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-6/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-7/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/findThePoint.cpp) |
@@ -22,7 +22,7 @@
 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting) | Easy | |
 | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | Easy | |
 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor) | Easy | |
-| [Restaurant](https://www.hackerrank.com/challenges/restaurant) | Easy | |
+| [Restaurant](https://www.hackerrank.com/challenges/restaurant) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/restaurant.cpp) |
 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | Easy | |
 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | Easy | |
 | [Sherlock and Divisor](https://www.hackerrank.com/challenges/sherlock-and-divisors) | Easy | |
