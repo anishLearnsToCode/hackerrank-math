@@ -12,17 +12,17 @@
 ### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-7/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
-| [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/findThePoint.cpp) |
-| [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/maximumDraws.cpp) |
-| [Handshake](https://www.hackerrank.com/challenges/handshake) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/handshake.cpp) |
-| [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/minHeightTriangle.cpp) |
-| [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/armyGame.cpp) |
+| [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](assets/cpp-logo.png)](cpp/findThePoint.cpp) |
+| [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | Easy |[![cpp](assets/cpp-logo.png)](cpp/maximumDraws.cpp) |
+| [Handshake](https://www.hackerrank.com/challenges/handshake) | Easy |[![cpp](assets/cpp-logo.png)](cpp/handshake.cpp) |
+| [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | Easy |[![cpp](assets/cpp-logo.png)](cpp/minHeightTriangle.cpp) |
+| [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | Easy |[![cpp](assets/cpp-logo.png)](cpp/armyGame.cpp) |
 | [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime) | Easy | |
-| [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/connectingTowns.cpp) |
+| [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns) | Easy |[![cpp](assets/cpp-logo.png)](cpp/connectingTowns.cpp) |
 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting) | Easy | |
 | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | Easy | |
 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor) | Easy | |
-| [Restaurant](https://www.hackerrank.com/challenges/restaurant) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/restaurant.cpp) |
+| [Restaurant](https://www.hackerrank.com/challenges/restaurant) | Easy |[![cpp](assets/cpp-logo.png)](cpp/restaurant.cpp) |
 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | Easy | |
 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | Easy | |
 | [Sherlock and Divisor](https://www.hackerrank.com/challenges/sherlock-and-divisors) | Easy | |
@@ -191,7 +191,7 @@
 |------|:----------:|:--------:|
 | [Combo Meals](https://www.hackerrank.com/challenges/combo-meal) | Easy | |
 | [Difference and Product](https://www.hackerrank.com/challenges/difference-and-product) | Easy | |
-| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy|[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/pythagoreanTriplet.cpp) |
+| [Pythagorean Triplet](https://www.hackerrank.com/challenges/pythagorean-triple) | Easy|[![cpp](assets/cpp-logo.png)](cpp/pythagoreanTriplet.cpp) |
 | [Number Groups](https://www.hackerrank.com/challenges/number-groups) | Easy | |
 | [Wet Shark and 42](https://www.hackerrank.com/challenges/wet-shark-and-42) | Easy | |
 | [Simple One](https://www.hackerrank.com/challenges/simple-one) | Easy | |
@@ -236,7 +236,7 @@
 ### Geometry ![problems-solved](https://img.shields.io/badge/Solved-1/30-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
-| [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/points_on_a_line.cpp)
+| [Points On A Line](https://www.hackerrank.com/challenges/points-on-a-line) | Easy |[![cpp](assets/cpp-logo.png)](cpp/points_on_a_line.cpp)
 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | Easy | |
 | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting) | Easy | |
 | [Sherlock and Planes](https://www.hackerrank.com/challenges/sherlock-and-planes) | Easy | |
@@ -271,10 +271,10 @@
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator) | Easy | [![py](https://img.icons8.com/color/35/000000/python.png)](python/probability/random_number_generator.py) |
-| [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/bdayGift.cpp) |
+| [B'Day Gift](https://www.hackerrank.com/challenges/bday-gift) | Easy |[![cpp](assets/cpp-logo.png)](cpp/bdayGift.cpp) |
 | [Day 4: Normal Distribution #1](https://www.hackerrank.com/challenges/normal-distribution-1) | Medium | |
 | [Day 4: Normal Distribution #2](https://www.hackerrank.com/challenges/normal-distribution-2) | Medium | |
-| [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | Medium |[![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/verticalSticks.cpp) |
+| [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | Medium |[![cpp](assets/cpp-logo.png)](cpp/verticalSticks.cpp) |
 | [Extremely Dangerous Virus](https://www.hackerrank.com/challenges/extremely-dangerous-virus) | Medium | |
 | [The Matchstick Experiment](https://www.hackerrank.com/challenges/matchstick-experiment) | Medium | |
 | [Palindromes](https://www.hackerrank.com/challenges/palindromes) | Medium | |
