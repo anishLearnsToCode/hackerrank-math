@@ -1,15 +1,15 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-13/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-14/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-12/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-13/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-8/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-9/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](assets/cpp.png)](cpp/findThePoint.cpp) |
@@ -23,7 +23,7 @@
 | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | Easy | |
 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor) | Easy |[![cpp](assets/cpp.png)](cpp/bestDivisor.cpp) |
 | [Restaurant](https://www.hackerrank.com/challenges/restaurant) | Easy |[![cpp](assets/cpp.png)](cpp/restaurant.cpp) |
-| [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | Easy | |
+| [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | Easy |[![cpp](assets/cpp.png)](cpp/reverseGame.cpp) |
 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | Easy | |
 | [Sherlock and Divisor](https://www.hackerrank.com/challenges/sherlock-and-divisors) | Easy | |
 | [Halloween Party](https://www.hackerrank.com/challenges/halloween-party) | Easy | |
