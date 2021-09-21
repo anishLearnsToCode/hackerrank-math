@@ -1,15 +1,15 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-17/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-18/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-16/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-17/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-12/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-13/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](assets/cpp.png)](cpp/findThePoint.cpp) |
@@ -34,7 +34,7 @@
 | [Possible Path](https://www.hackerrank.com/challenges/possible-path) | Easy |[![cpp](assets/cpp.png)](cpp/possiblePath.cpp) |
 | [Jim and The Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | Medium | |
 | [Bus Station](https://www.hackerrank.com/challenges/bus-station) | Medium |[![cpp](assets/cpp.png)](cpp/busStation.cpp) |
-| [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | Medium | |
+| [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | Medium |[![cpp](assets/cpp.png)](cpp/isFibo.cpp) |
 | [K Candy Score](https://www.hackerrank.com/challenges/k-candy-store) | Medium | |
 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | Medium | |
 | [Mutual Recurrences](https://www.hackerrank.com/challenges/mutual-recurrences) | Medium | |
