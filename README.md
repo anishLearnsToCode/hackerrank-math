@@ -39,7 +39,7 @@
 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | Medium |[![cpp](assets/cpp.png)](cpp/diwaliLights.cpp) |
 | [Mutual Recurrences](https://www.hackerrank.com/challenges/mutual-recurrences) | Medium |[![cpp](assets/cpp.png)](cpp/mutualRecurrences.cpp) |
 | [Summing The N Series](https://www.hackerrank.com/challenges/summing-the-n-series) | Medium | |
-| [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | Medium |[![cpp](assets/cpp.png)](cpp/mutualRecurrences.cpp) |
+| [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | Medium |[![cpp](assets/cpp.png)](cpp/specialMultiple.cpp) |
 | [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | Medium | |
 | [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query) | Hard | |
 | [Sherlock and Permutation](https://www.hackerrank.com/challenges/sherlock-and-permutations) | Hard | |
