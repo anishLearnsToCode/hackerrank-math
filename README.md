@@ -1,6 +1,6 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-21/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-22/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
 ![problems-solved-cpp](https://img.shields.io/badge/C++-21/284-008000.svg)
