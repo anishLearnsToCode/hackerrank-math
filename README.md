@@ -1,15 +1,15 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-22/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-23/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-21/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-22/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-17/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-18/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](assets/cpp.png)](cpp/findThePoint.cpp) |
@@ -27,7 +27,7 @@
 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | Easy | |
 | [Sherlock and Divisor](https://www.hackerrank.com/challenges/sherlock-and-divisors) | Easy | |
 | [Halloween Party](https://www.hackerrank.com/challenges/halloween-party) | Easy |[![cpp](assets/cpp.png)](cpp/halloweenParty.cpp) |
-| [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | Easy | |
+| [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | Easy |[![cpp](assets/cpp.png)](cpp/fillingJars.cpp) |
 | [Sumar and The Floating Rocks](https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks) | Easy | |
 | [Russian Peasant Exponent](https://www.hackerrank.com/challenges/russian-peasant-exponentiation) | Easy | |
 | [Most Distant](https://www.hackerrank.com/challenges/most-distant) | Easy |[![cpp](assets/cpp.png)](cpp/mostDistant.cpp) |
