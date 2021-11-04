@@ -1,15 +1,15 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-23/284-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-24/284-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-22/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-23/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-18/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-19/32-00ffff.svg)
 | Name | Difficulty | Solution |
 |------|:----------:|:--------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem) | Easy |[![cpp](assets/cpp.png)](cpp/findThePoint.cpp) |
@@ -43,7 +43,7 @@
 | [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | Medium | |
 | [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query) | Hard | |
 | [Sherlock and Permutation](https://www.hackerrank.com/challenges/sherlock-and-permutations) | Hard | |
-| [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | Hard | |
+| [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | Hard |[![cpp](assets/cpp.png)](cpp/matrixTracing.cpp) |
 
 ### Number Theory ![problems-solved](https://img.shields.io/badge/Solved-0/77-00ffff.svg)
 | Name | Difficulty | Solution |
