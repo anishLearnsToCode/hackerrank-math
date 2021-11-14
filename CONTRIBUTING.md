@@ -44,9 +44,33 @@ For the icon link refer to the table below to obtain the link for a specific pro
 | PGH | ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png) | https://img.icons8.com/officel/40/000000/php-logo.png |
 | Swift | ![Swift](https://img.icons8.com/fluent/40/000000/swift.png) | https://img.icons8.com/fluent/40/000000/swift.png |
 
+## Git Workflow
+1. Fork this repo
 
+2. Add this repo as the remote:
+````bash
+git remote add anish https://github.com/anishLearnsToCode/hackerrank-math.git
+git remote 
+````
 
+3. Always pull main from this repo and program in new branches:
+````bash
+git checkout main 
+git pull anish main
+git push origin main
+git checkout -b new-feature
+```` 
 
+4. Push your new branch onto your repo and create a Pull Request from GitHub 
+````bash
+git push -u origin new-feature
+````
+and create a pull request
 
-
-
+5. Update __main__ branch once the PR is approved and rebase any other feature branches on top of it.
+````bash
+git checkout main
+git pull anish main
+git checkout feature-2
+git rebase main
+```` 
