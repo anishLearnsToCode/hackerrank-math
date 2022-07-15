@@ -1,7 +1,7 @@
 # HackerRank Mathematics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-26/284-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-8/284-008000.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-27/284-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-9/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
 ![problems-solved-cpp](https://img.shields.io/badge/C++-25/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -10,7 +10,7 @@
 
 ## Problems
 
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-22/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-23/32-00ffff.svg)
 | Name                                                                                                      | Difficulty |                                                      Solution                                                       |
 |-----------------------------------------------------------------------------------------------------------|:----------:|:-------------------------------------------------------------------------------------------------------------------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem)                                |    Easy    |        [![Java](assets/java.png)](java/src/FindThePoint.java) [![cpp](assets/cpp.png)](cpp/findThePoint.cpp)        |
@@ -21,7 +21,7 @@
 | [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime)                      |    Easy    |                           [![Java](assets/java.png)](java/src/LeonardosPrimeFactors.java)                           |
 | [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns)                                |    Easy    |     [![Java](assets/java.png)](java/src/ConnectingTowns.java) [![cpp](assets/cpp.png)](cpp/connectingTowns.cpp)     |
 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting)                           |    Easy    |                            [![Java](assets/java.png)](java/src/CuttingPaperSquares.java)                            |
-| [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles)              |    Easy    |                                                                                                                     |
+| [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles)              |    Easy    |                          [![Java](assets/java.png)](java/src/SherlockAndMovingTiles.java)                           |
 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor)                                        |    Easy    |                                    [![cpp](assets/cpp.png)](cpp/bestDivisor.cpp)                                    |
 | [Restaurant](https://www.hackerrank.com/challenges/restaurant)                                            |    Easy    |                                    [![cpp](assets/cpp.png)](cpp/restaurant.cpp)                                     |
 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game)                                        |    Easy    |                                    [![cpp](assets/cpp.png)](cpp/reverseGame.cpp)                                    |
