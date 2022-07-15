@@ -1,16 +1,16 @@
 # HackerRank Mathematics
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-25/284-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-0/284-008000.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-7/284-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-1/284-008000.svg)
-![problems-solved-cpp](https://img.shields.io/badge/C++-24/284-008000.svg)
+![problems-solved-cpp](https://img.shields.io/badge/C++-25/284-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
 ## Problems
 
-### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-20/32-00ffff.svg)
+### Fundamentals ![problems-solved](https://img.shields.io/badge/Solved-21/32-00ffff.svg)
 | Name                                                                                                      | Difficulty |                                                      Solution                                                       |
 |-----------------------------------------------------------------------------------------------------------|:----------:|:-------------------------------------------------------------------------------------------------------------------:|
 | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem)                                |    Easy    |        [![Java](assets/java.png)](java/src/FindThePoint.java) [![cpp](assets/cpp.png)](cpp/findThePoint.cpp)        |
