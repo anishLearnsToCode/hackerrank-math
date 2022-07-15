@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/find-point
+// T: O(t) t = number of test cases, for each test case O(1)
+// S: O(1)
+
 import java.util.Scanner;
 
 public class FindThePoint {
