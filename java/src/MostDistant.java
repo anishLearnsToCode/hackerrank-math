@@ -1,4 +1,6 @@
-
+// https://www.hackerrank.com/challenges/most-distant
+// T: O(N)
+// S: O(1)
 
 import java.util.Scanner;
 
@@ -43,22 +45,5 @@ public class MostDistant {
             result = Math.max(result, number);
         }
         return result;
-    }
-
-    public static String toDecimalString(Double number, int precision) {
-        StringBuilder sb = new StringBuilder();
-
-        sb.append(number.intValue());
-        number -= number.intValue();
-
-        sb.append('.');
-
-        for (int i = 0; i < precision; i++) {
-            number *= 10;
-            sb.append(number.intValue());
-            number -= (number.intValue());
-        }
-
-        return sb.toString();
     }
 }
