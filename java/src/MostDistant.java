@@ -32,7 +32,7 @@ public class MostDistant {
                 distance(yMax, xMax)
         );
 
-        System.out.println(toDecimalString(distance, 8));
+        System.out.println(distance);
     }
 
     private static double distance(int a, int b) {
