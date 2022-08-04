@@ -1,46 +1,19 @@
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
+import java.util.stream.LongStream;
 
 public class JimAndTheJokes {
-    private static final Scanner SCANNER = new Scanner(System.in);
+    private static final Scanner SCANNNER = new Scanner(System.in);
 
     public static void main(String[] args) {
-        final Map<Long, Long> frequencies = new HashMap<>();
-        int testCases = SCANNER.nextInt();
-        while (testCases -- > 0) {
-            final int month = SCANNER.nextInt();
-            final int day = SCANNER.nextInt();
-            final Long value = decimalFromBase(day, month);
-            if (value != null) {
-                frequencies.put(value, frequencies.getOrDefault(value, 0L) + 1);
+        final long[] t = new long[38];
+        for (int n = SCANNNER.nextInt(); n > 0; n--) {
+            final int m = SCANNNER.nextInt();
+            final int d = SCANNNER.nextInt();
+            final String s = Integer.toString(d);
+            if (m > 1 && s.chars().noneMatch(c -> c >= '0' + m)) {
+                t[Integer.parseInt(s, m)]++;
             }
         }
-        System.out.println(sumNC2(frequencies.values()));
-    }
-
-    private static Long decimalFromBase(int n, int base) {
-        if (base == 1) return null;
-        long result = 0, factor = 1;
-        while (n > 0) {
-            if (n % 10 >= base) return null;
-            result += factor * n % 10;
-            n /= 10;
-            factor *= base;
-        }
-        return result;
-    }
-
-    private static long sumNC2(Collection<Long> numbers) {
-        long result = 0;
-        for (long number : numbers) {
-            result += nC2(number);
-        }
-        return result;
-    }
-
-    private static long nC2(long x) {
-        return (x * (x - 1)) / 2;
+        System.out.println(LongStream.of(t).map(k -> k * (k - 1) / 2).sum());
     }
 }
